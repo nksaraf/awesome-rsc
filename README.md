@@ -1,1 +1,1 @@
-# awesome-server-components
+# awesome-rsc
